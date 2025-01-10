@@ -95,6 +95,7 @@ Editar o arquivo ``appsettings.json`` adicionando o acesso da AWS Account e.g:
 
    API_URL=http://localhost:5051
    API_TEXTRACT_ENDPOINT=/Textract/extract-text-from-file
+   API_REKOGNITION_ENDPOINT=/Rekognition/detect-celebrities
 
 5. **Testando o Sistema**
 
