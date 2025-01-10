@@ -1,0 +1,835 @@
+{
+  "rekognition": {
+    "CelebrityFaces": [
+      {
+        "Face": {
+          "BoundingBox": {
+            "Height": 0.21769318,
+            "Left": 0.8240858,
+            "Top": 0.24525297,
+            "Width": 0.08188475
+          },
+          "Confidence": 99.9982,
+          "Emotions": [
+            {
+              "Confidence": 99.674484,
+              "Type": {
+                "Value": "HAPPY"
+              }
+            },
+            {
+              "Confidence": 0.05212426,
+              "Type": {
+                "Value": "SURPRISED"
+              }
+            },
+            {
+              "Confidence": 0.002014637,
+              "Type": {
+                "Value": "FEAR"
+              }
+            },
+            {
+              "Confidence": 0.001591444,
+              "Type": {
+                "Value": "CALM"
+              }
+            },
+            {
+              "Confidence": 0.0014950831,
+              "Type": {
+                "Value": "CONFUSED"
+              }
+            },
+            {
+              "Confidence": 0.00017881393,
+              "Type": {
+                "Value": "DISGUSTED"
+              }
+            },
+            {
+              "Confidence": 0.00017285347,
+              "Type": {
+                "Value": "ANGRY"
+              }
+            },
+            {
+              "Confidence": 0.000035762787,
+              "Type": {
+                "Value": "SAD"
+              }
+            }
+          ],
+          "Landmarks": [
+            {
+              "Type": {
+                "Value": "eyeLeft"
+              },
+              "X": 0.84111613,
+              "Y": 0.3284342
+            },
+            {
+              "Type": {
+                "Value": "nose"
+              },
+              "X": 0.85510826,
+              "Y": 0.35775623
+            },
+            {
+              "Type": {
+                "Value": "mouthLeft"
+              },
+              "X": 0.84579676,
+              "Y": 0.40363786
+            },
+            {
+              "Type": {
+                "Value": "eyeRight"
+              },
+              "X": 0.8769358,
+              "Y": 0.325048
+            },
+            {
+              "Type": {
+                "Value": "mouthRight"
+              },
+              "X": 0.87554324,
+              "Y": 0.40095124
+            }
+          ],
+          "Pose": {
+            "Pitch": 13.209441,
+            "Roll": -4.036766,
+            "Yaw": -8.004946
+          },
+          "Quality": {
+            "Brightness": 73.83678,
+            "Sharpness": 92.22801
+          },
+          "Smile": {
+            "Confidence": 99.85744,
+            "Value": true
+          }
+        },
+        "Id": "3Xs2GB",
+        "KnownGender": {
+          "Type": {
+            "Value": "Male"
+          }
+        },
+        "MatchConfidence": 99.99813,
+        "Name": "Jimmy Fallon",
+        "Urls": ["www.wikidata.org/wiki/Q335680"]
+      },
+      {
+        "Face": {
+          "BoundingBox": {
+            "Height": 0.21396567,
+            "Left": 0.58128613,
+            "Top": 0.32135278,
+            "Width": 0.078518845
+          },
+          "Confidence": 99.99803,
+          "Emotions": [
+            {
+              "Confidence": 100,
+              "Type": {
+                "Value": "HAPPY"
+              }
+            },
+            {
+              "Confidence": 0.032663345,
+              "Type": {
+                "Value": "SURPRISED"
+              }
+            },
+            {
+              "Confidence": 0.0036656857,
+              "Type": {
+                "Value": "CONFUSED"
+              }
+            },
+            {
+              "Confidence": 0.0008404255,
+              "Type": {
+                "Value": "ANGRY"
+              }
+            },
+            {
+              "Confidence": 0.000667572,
+              "Type": {
+                "Value": "CALM"
+              }
+            },
+            {
+              "Confidence": 0.0003963709,
+              "Type": {
+                "Value": "FEAR"
+              }
+            },
+            {
+              "Confidence": 0.000047683716,
+              "Type": {
+                "Value": "DISGUSTED"
+              }
+            },
+            {
+              "Confidence": 0.000029802322,
+              "Type": {
+                "Value": "SAD"
+              }
+            }
+          ],
+          "Landmarks": [
+            {
+              "Type": {
+                "Value": "eyeLeft"
+              },
+              "X": 0.6026844,
+              "Y": 0.39423952
+            },
+            {
+              "Type": {
+                "Value": "nose"
+              },
+              "X": 0.613923,
+              "Y": 0.43039384
+            },
+            {
+              "Type": {
+                "Value": "mouthLeft"
+              },
+              "X": 0.60236055,
+              "Y": 0.46799442
+            },
+            {
+              "Type": {
+                "Value": "eyeRight"
+              },
+              "X": 0.6364906,
+              "Y": 0.39998266
+            },
+            {
+              "Type": {
+                "Value": "mouthRight"
+              },
+              "X": 0.63051033,
+              "Y": 0.47302422
+            }
+          ],
+          "Pose": {
+            "Pitch": 9.577507,
+            "Roll": 1.9087495,
+            "Yaw": -8.482366
+          },
+          "Quality": {
+            "Brightness": 80.03723,
+            "Sharpness": 94.08263
+          },
+          "Smile": {
+            "Confidence": 99.809395,
+            "Value": true
+          }
+        },
+        "Id": "1Po1Qq8T",
+        "KnownGender": {
+          "Type": {
+            "Value": "Male"
+          }
+        },
+        "MatchConfidence": 99.997665,
+        "Name": "Ben Stiller",
+        "Urls": ["www.wikidata.org/wiki/Q47100", "www.imdb.com/name/nm0001774"]
+      },
+      {
+        "Face": {
+          "BoundingBox": {
+            "Height": 0.18662165,
+            "Left": 0.13414574,
+            "Top": 0.27977246,
+            "Width": 0.080557086
+          },
+          "Confidence": 99.99629,
+          "Emotions": [
+            {
+              "Confidence": 97.39583,
+              "Type": {
+                "Value": "HAPPY"
+              }
+            },
+            {
+              "Confidence": 0.93984604,
+              "Type": {
+                "Value": "SURPRISED"
+              }
+            },
+            {
+              "Confidence": 0.05022685,
+              "Type": {
+                "Value": "CONFUSED"
+              }
+            },
+            {
+              "Confidence": 0.0031769276,
+              "Type": {
+                "Value": "FEAR"
+              }
+            },
+            {
+              "Confidence": 0.0017404556,
+              "Type": {
+                "Value": "CALM"
+              }
+            },
+            {
+              "Confidence": 0.00038146973,
+              "Type": {
+                "Value": "ANGRY"
+              }
+            },
+            {
+              "Confidence": 0.00026226044,
+              "Type": {
+                "Value": "DISGUSTED"
+              }
+            },
+            {
+              "Confidence": 0.0001847744,
+              "Type": {
+                "Value": "SAD"
+              }
+            }
+          ],
+          "Landmarks": [
+            {
+              "Type": {
+                "Value": "eyeLeft"
+              },
+              "X": 0.16207902,
+              "Y": 0.33333018
+            },
+            {
+              "Type": {
+                "Value": "nose"
+              },
+              "X": 0.17658757,
+              "Y": 0.36483786
+            },
+            {
+              "Type": {
+                "Value": "mouthLeft"
+              },
+              "X": 0.15564181,
+              "Y": 0.40144274
+            },
+            {
+              "Type": {
+                "Value": "eyeRight"
+              },
+              "X": 0.19566296,
+              "Y": 0.34999502
+            },
+            {
+              "Type": {
+                "Value": "mouthRight"
+              },
+              "X": 0.18360105,
+              "Y": 0.4152559
+            }
+          ],
+          "Pose": {
+            "Pitch": 18.930319,
+            "Roll": 15.59492,
+            "Yaw": 2.053895
+          },
+          "Quality": {
+            "Brightness": 40.00728,
+            "Sharpness": 92.22801
+          },
+          "Smile": {
+            "Confidence": 99.765686,
+            "Value": true
+          }
+        },
+        "Id": "OF8jw3h",
+        "KnownGender": {
+          "Type": {
+            "Value": "Male"
+          }
+        },
+        "MatchConfidence": 99.998474,
+        "Name": "Chris Rock",
+        "Urls": ["www.wikidata.org/wiki/Q4109", "www.imdb.com/name/nm0001674"]
+      },
+      {
+        "Face": {
+          "BoundingBox": {
+            "Height": 0.18702714,
+            "Left": 0.35285285,
+            "Top": 0.27041233,
+            "Width": 0.0736185
+          },
+          "Confidence": 99.995766,
+          "Emotions": [
+            {
+              "Confidence": 99.674484,
+              "Type": {
+                "Value": "HAPPY"
+              }
+            },
+            {
+              "Confidence": 0.0718832,
+              "Type": {
+                "Value": "CONFUSED"
+              }
+            },
+            {
+              "Confidence": 0.012046099,
+              "Type": {
+                "Value": "CALM"
+              }
+            },
+            {
+              "Confidence": 0.0073194504,
+              "Type": {
+                "Value": "FEAR"
+              }
+            },
+            {
+              "Confidence": 0.006735325,
+              "Type": {
+                "Value": "SURPRISED"
+              }
+            },
+            {
+              "Confidence": 0.0010848045,
+              "Type": {
+                "Value": "SAD"
+              }
+            },
+            {
+              "Confidence": 0.0008583069,
+              "Type": {
+                "Value": "DISGUSTED"
+              }
+            },
+            {
+              "Confidence": 0.00007748604,
+              "Type": {
+                "Value": "ANGRY"
+              }
+            }
+          ],
+          "Landmarks": [
+            {
+              "Type": {
+                "Value": "eyeLeft"
+              },
+              "X": 0.36865246,
+              "Y": 0.34471533
+            },
+            {
+              "Type": {
+                "Value": "nose"
+              },
+              "X": 0.38139388,
+              "Y": 0.37155092
+            },
+            {
+              "Type": {
+                "Value": "mouthLeft"
+              },
+              "X": 0.37190974,
+              "Y": 0.40853545
+            },
+            {
+              "Type": {
+                "Value": "eyeRight"
+              },
+              "X": 0.40094966,
+              "Y": 0.34356883
+            },
+            {
+              "Type": {
+                "Value": "mouthRight"
+              },
+              "X": 0.39875495,
+              "Y": 0.40765497
+            }
+          ],
+          "Pose": {
+            "Pitch": 16.034992,
+            "Roll": -1.876011,
+            "Yaw": -7.124867
+          },
+          "Quality": {
+            "Brightness": 78.48711,
+            "Sharpness": 94.08263
+          },
+          "Smile": {
+            "Confidence": 99.204926,
+            "Value": true
+          }
+        },
+        "Id": "4hi9vY9v",
+        "KnownGender": {
+          "Type": {
+            "Value": "Male"
+          }
+        },
+        "MatchConfidence": 99.99582,
+        "Name": "Ad-Rock",
+        "Urls": ["www.wikidata.org/wiki/Q349799", "www.imdb.com/name/nm0395259"]
+      },
+      {
+        "Face": {
+          "BoundingBox": {
+            "Height": 0.18429056,
+            "Left": 0.32944828,
+            "Top": 0.0051024687,
+            "Width": 0.074324064
+          },
+          "Confidence": 99.996254,
+          "Emotions": [
+            {
+              "Confidence": 66.13281,
+              "Type": {
+                "Value": "CALM"
+              }
+            },
+            {
+              "Confidence": 12.453125,
+              "Type": {
+                "Value": "CONFUSED"
+              }
+            },
+            {
+              "Confidence": 2.9266357,
+              "Type": {
+                "Value": "SAD"
+              }
+            },
+            {
+              "Confidence": 0.20074844,
+              "Type": {
+                "Value": "SURPRISED"
+              }
+            },
+            {
+              "Confidence": 0.11892319,
+              "Type": {
+                "Value": "DISGUSTED"
+              }
+            },
+            {
+              "Confidence": 0.019562244,
+              "Type": {
+                "Value": "ANGRY"
+              }
+            },
+            {
+              "Confidence": 0.008237362,
+              "Type": {
+                "Value": "FEAR"
+              }
+            },
+            {
+              "Confidence": 0.0060796738,
+              "Type": {
+                "Value": "HAPPY"
+              }
+            }
+          ],
+          "Landmarks": [
+            {
+              "Type": {
+                "Value": "eyeLeft"
+              },
+              "X": 0.37072986,
+              "Y": 0.06210038
+            },
+            {
+              "Type": {
+                "Value": "nose"
+              },
+              "X": 0.39157674,
+              "Y": 0.10786931
+            },
+            {
+              "Type": {
+                "Value": "mouthLeft"
+              },
+              "X": 0.36507767,
+              "Y": 0.1308466
+            },
+            {
+              "Type": {
+                "Value": "eyeRight"
+              },
+              "X": 0.39511463,
+              "Y": 0.074425064
+            },
+            {
+              "Type": {
+                "Value": "mouthRight"
+              },
+              "X": 0.38549086,
+              "Y": 0.14080499
+            }
+          ],
+          "Pose": {
+            "Pitch": 8.038982,
+            "Roll": 19.724663,
+            "Yaw": 37.36826
+          },
+          "Quality": {
+            "Brightness": 30.93016,
+            "Sharpness": 60.490417
+          },
+          "Smile": {
+            "Confidence": 99.78577,
+            "Value": false
+          }
+        },
+        "Id": "4vi4fu7N",
+        "KnownGender": {
+          "Type": {
+            "Value": "Male"
+          }
+        },
+        "MatchConfidence": 91.719696,
+        "Name": "Luol Deng",
+        "Urls": ["www.wikidata.org/wiki/Q275183"]
+      }
+    ],
+    "OrientationCorrection": null,
+    "UnrecognizedFaces": [
+      {
+        "BoundingBox": {
+          "Height": 0.18788067,
+          "Left": 0.43332925,
+          "Top": 0.013793306,
+          "Width": 0.06614915
+        },
+        "Confidence": 99.99361,
+        "Emotions": [
+          {
+            "Confidence": 88.862305,
+            "Type": {
+              "Value": "CALM"
+            }
+          },
+          {
+            "Confidence": 5.268097,
+            "Type": {
+              "Value": "SURPRISED"
+            }
+          },
+          {
+            "Confidence": 1.759847,
+            "Type": {
+              "Value": "CONFUSED"
+            }
+          },
+          {
+            "Confidence": 0.44657388,
+            "Type": {
+              "Value": "HAPPY"
+            }
+          },
+          {
+            "Confidence": 0.08158684,
+            "Type": {
+              "Value": "FEAR"
+            }
+          },
+          {
+            "Confidence": 0.032377243,
+            "Type": {
+              "Value": "SAD"
+            }
+          },
+          {
+            "Confidence": 0.02259016,
+            "Type": {
+              "Value": "ANGRY"
+            }
+          },
+          {
+            "Confidence": 0.021731853,
+            "Type": {
+              "Value": "DISGUSTED"
+            }
+          }
+        ],
+        "Landmarks": [
+          {
+            "Type": {
+              "Value": "eyeLeft"
+            },
+            "X": 0.4419727,
+            "Y": 0.10497777
+          },
+          {
+            "Type": {
+              "Value": "nose"
+            },
+            "X": 0.43971378,
+            "Y": 0.13426489
+          },
+          {
+            "Type": {
+              "Value": "mouthLeft"
+            },
+            "X": 0.4557518,
+            "Y": 0.16658632
+          },
+          {
+            "Type": {
+              "Value": "eyeRight"
+            },
+            "X": 0.45661825,
+            "Y": 0.07907745
+          },
+          {
+            "Type": {
+              "Value": "mouthRight"
+            },
+            "X": 0.46787685,
+            "Y": 0.14559706
+          }
+        ],
+        "Pose": {
+          "Pitch": 26.815184,
+          "Roll": -47.470425,
+          "Yaw": -48.51298
+        },
+        "Quality": {
+          "Brightness": 34.550156,
+          "Sharpness": 53.330048
+        },
+        "Smile": {
+          "Confidence": 98.84373,
+          "Value": false
+        }
+      },
+      {
+        "BoundingBox": {
+          "Height": 0.15783526,
+          "Left": 0.87909085,
+          "Top": 0.12611665,
+          "Width": 0.07779314
+        },
+        "Confidence": 99.998566,
+        "Emotions": [
+          {
+            "Confidence": 91.36513,
+            "Type": {
+              "Value": "SAD"
+            }
+          },
+          {
+            "Confidence": 28.42285,
+            "Type": {
+              "Value": "CALM"
+            }
+          },
+          {
+            "Confidence": 0.29341382,
+            "Type": {
+              "Value": "CONFUSED"
+            }
+          },
+          {
+            "Confidence": 0.15630722,
+            "Type": {
+              "Value": "DISGUSTED"
+            }
+          },
+          {
+            "Confidence": 0.08263588,
+            "Type": {
+              "Value": "ANGRY"
+            }
+          },
+          {
+            "Confidence": 0.06351471,
+            "Type": {
+              "Value": "FEAR"
+            }
+          },
+          {
+            "Confidence": 0.055104494,
+            "Type": {
+              "Value": "SURPRISED"
+            }
+          },
+          {
+            "Confidence": 0.026082993,
+            "Type": {
+              "Value": "HAPPY"
+            }
+          }
+        ],
+        "Landmarks": [
+          {
+            "Type": {
+              "Value": "eyeLeft"
+            },
+            "X": 0.90902746,
+            "Y": 0.20277625
+          },
+          {
+            "Type": {
+              "Value": "nose"
+            },
+            "X": 0.9217855,
+            "Y": 0.25565767
+          },
+          {
+            "Type": {
+              "Value": "mouthLeft"
+            },
+            "X": 0.9031828,
+            "Y": 0.24915472
+          },
+          {
+            "Type": {
+              "Value": "eyeRight"
+            },
+            "X": 0.9397048,
+            "Y": 0.21097101
+          },
+          {
+            "Type": {
+              "Value": "mouthRight"
+            },
+            "X": 0.92921215,
+            "Y": 0.2560029
+          }
+        ],
+        "Pose": {
+          "Pitch": -47.05852,
+          "Roll": 6.2729206,
+          "Yaw": 10.920446
+        },
+        "Quality": {
+          "Brightness": 45.12925,
+          "Sharpness": 46.0298
+        },
+        "Smile": {
+          "Confidence": 99.26272,
+          "Value": false
+        }
+      }
+    ],
+    "ResponseMetadata": {
+      "RequestId": "cc456a7f-70e6-4041-ad68-28e1393d19e3",
+      "Metadata": {},
+      "ChecksumAlgorithm": 0,
+      "ChecksumValidationStatus": 0
+    },
+    "ContentLength": 8828,
+    "HttpStatusCode": 200
+  }
+}
